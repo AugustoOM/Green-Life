@@ -107,7 +107,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container">
-      <p class="footer-text">© 2024 Green Day. Todos los derechos reservados.</p>
+      <p class="footer-text">© 2025 Green Day. Todos los derechos reservados.</p>
     </div>
   </footer>
 </main>
